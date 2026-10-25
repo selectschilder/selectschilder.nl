@@ -49,16 +49,16 @@ body {
 }
 
 #body {
-  background: url(/images/body_bg.gif) repeat-y;
+  background: url(images/body_bg.gif) repeat-y;
   color: white;
   width: 100%;
 }
 #body-top {
-  background: top left url(/images/body_top.gif) no-repeat;
+  background: top left url(images/body_top.gif) no-repeat;
   position: relative;
 }
 #body-bot {
-  background: bottom left url(/images/body_bot.gif) no-repeat;
+  background: bottom left url(images/body_bot.gif) no-repeat;
   padding-bottom: 17px;
 }
 #body-top-2 {
@@ -67,7 +67,7 @@ body {
   left: 251px;
   width: 463px;
   height: 11px;
-  background: top left url(/images/body_top_2.gif) no-repeat;
+  background: top left url(images/body_top_2.gif) no-repeat;
 }
 
 #wrapper {
@@ -89,7 +89,7 @@ h1 {
   left: 256px;
 }
 #nav a {
-  background-image: url(/images/menu.gif);
+  background-image: url(images/menu.gif);
   width: 90px;
   height: 19px;
   display: inline;
@@ -173,11 +173,11 @@ h1 {
 
 .bar-lit {
   padding-left: 6px;
-  background: 0px 4px url(/images/bar_lit.gif) no-repeat;
+  background: 0px 4px url(images/bar_lit.gif) no-repeat;
 }
 .bar-drk {
   padding-left: 6px;
-  background: 0px 4px url(/images/bar_drk.gif) no-repeat;
+  background: 0px 4px url(images/bar_drk.gif) no-repeat;
 }
 
 #picbar {
